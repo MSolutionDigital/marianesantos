@@ -1,0 +1,20 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_3E92A696_24AF_099F_41B8_B51B049377E3.mp3Url = media/audio_22567D66_24A7_78BE_41C1_C422A069557D_pt.mp3
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = R. Batista Crespo, 285 - Vila Pirajussara, Campo Limpo - São Paulo
+
+### Title
+tour.name = Mariane Santos Estética e Beleza - Tour Virtual 360°
